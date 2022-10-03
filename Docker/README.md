@@ -1,12 +1,11 @@
 <p align="center">
   <img src="https://github.com/norlab-ulaval/SNOW-sim_internship_H22/blob/master/norlab_logo_noir.PNG?raw=true" />
 </p>
-
 <br/>
 <br/>
 
 # DOCKER GAZEBO IGNITION SIMULATOR
-
+<br/>
 <br/>
 
 [SSIM-Sim](https://norlab.youtrack.cloud/issues?q=project:%20%7B%F0%9D%94%96%20SNOW-sim%7D) (Youtrack)
@@ -18,6 +17,7 @@
 &nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
 <br/>
 <br/>
+
 
 *Author: Isabelle Eysseric*
 
@@ -67,7 +67,7 @@ Currently, there is Gazebo Ignition (Fortress) on Ubuntu 20.04 but you have a ch
 **Step 1**: Download the folder `docker-ignition`
 
 ```shell
-sudo git clone https://github.com/norlab-ulaval/SNOW-sim_internship_H22/tree/main/DOCKER_Ignition.git
+sudo git clone https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project/tree/main/DOCKER_Ignition.git
 ```
 <br/>
 
