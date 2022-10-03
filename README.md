@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/norlab-ulaval/SNOW-sim_internship_H22/blob/master/norlab_logo_noir.PNG?raw=true" />
+  <img src="https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project/blob/master/norlab_logo_noir.PNG?raw=true" />
 </p>
 <br/>
 <br/>
@@ -13,8 +13,9 @@
 &nbsp; • &nbsp;[SNOW](https://norlab.ulaval.ca/research/snow/) (WebSite)
 &nbsp; • &nbsp;[SNOW-sim](https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project) (GitHub)
 &nbsp; • &nbsp;[SNOW-sim](https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleeysseric](https://app.gazebosim.org/isabelleeysseric) (Fuel Ignition Gazebo)
 &nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
+&nbsp; • &nbsp;[User: isabelleeysseric](https://app.gazebosim.org/isabelleeysseric) (Fuel Ignition Gazebo)
+&nbsp; • &nbsp;[Models: NORLAB](https://app.gazebosim.org/search;q=NORLAB) (Fuel Ignition Gazebo)
 &nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
 &nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
 <br/>
