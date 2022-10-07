@@ -8,16 +8,20 @@
 # SNOW-SIM PROJECT: BEST SIMULATOR FOR OFF-ROAD & EXTREME ENVIRONMENTS
 <br/>
 
-
-[SSIM-Sim](https://norlab.youtrack.cloud/issues?q=project:%20%7B%F0%9D%94%96%20SNOW-sim%7D) (Youtrack)
-&nbsp; • &nbsp;[SNOW](https://norlab.ulaval.ca/research/snow/) (WebSite)
-&nbsp; • &nbsp;[SNOW-sim](https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project) (GitHub)
-&nbsp; • &nbsp;[SNOW-sim](https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project/wiki) (Wiki)
-&nbsp; • &nbsp;[isabelleysseric](https://hub.docker.com/u/isabelleysseric) (Docker)
-&nbsp; • &nbsp;[User: isabelleeysseric](https://app.gazebosim.org/isabelleeysseric) (Fuel Ignition Gazebo)
-&nbsp; • &nbsp;[Models: NORLAB](https://app.gazebosim.org/search;q=NORLAB) (Fuel Ignition Gazebo)
-&nbsp; • &nbsp;[isabelleysseric.com](https://isabelleysseric.com) (Portfolio)
-&nbsp; • &nbsp;[isabelle-eysseric](https://www.linkedin.com/in/isabelle-eysseric/) (Linkedin)
+<p align='center'>
+  <a href="https://norlab.youtrack.cloud/issues?q=project:%20%7B%F0%9D%94%96%20SNOW-sim%7D">SSIM-Sim</a> (Youtrack)
+  &nbsp; • &nbsp;<a href="https://norlab.ulaval.ca/research/snow/">SNOW-ul</a> (Website)
+  <a href="https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project">Reinforcement-Learning-Research-Project</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://github.com/isabelleysseric/Reinforcement-Learning-Research-Project/wiki">Reinforcement-Learning-Research-Project</a> (Wiki)
+  &nbsp; • &nbsp;<a href="https://hub.docker.com/u/isabelleysseric">isabelleysseric</a> (Docker)
+  &nbsp; • &nbsp;<a href="https://app.gazebosim.org/isabelleeysseric">User: isabelleeysseric</a> (Fuel Ignition Gazebo)
+  &nbsp; • &nbsp;<a href="https://app.gazebosim.org/search;q=NORLAB">Models: NORLAB</a> (Fuel Ignition Gazebo)
+  &nbsp; • &nbsp;<a href="https://norlab.ulaval.ca/">NORLAB</a> (Laboratoire de recherche)
+  &nbsp; • &nbsp;<a href="https://www.ulaval.ca/etudes/cours/glo-4001-introduction-a-la-robotique-mobile">GLO-4001-introduction-a-la-robotique-mobile</a> (Cours)<br/><br/>
+  <a href="https://github.com/isabelleysseric">isabelleysseric</a> (GitHub)
+  &nbsp; • &nbsp;<a href="https://isabelleysseric.com/">isabelleysseric.com</a> (Portfolio)
+  &nbsp; • &nbsp;<a href="https://www.linkedin.com/in/isabelle-eysseric/">isabelle-eysseric</a> (LinkedIn) <br/>
+</p>
 <br/>
 <br/>
 
